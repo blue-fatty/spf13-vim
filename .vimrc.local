@@ -14,5 +14,5 @@ let g:syntastic_check_on_wq = 0
 " Click <C-c> to comment in vim insert mode
 imap <C-c> <plug>NERDCommenterInsert
 
-# ColorColumn - maximum line length
+" ColorColumn - maximum line length
 set cc=80
