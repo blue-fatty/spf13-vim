@@ -16,3 +16,6 @@ imap <C-c> <plug>NERDCommenterInsert
 
 " ColorColumn - maximum line length
 set cc=80
+
+" jedi-vim
+let g:jedi#completions_enabled = 0
