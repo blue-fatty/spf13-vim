@@ -123,7 +123,6 @@
                 Plug 'vim-airline/vim-airline'
                 Plug 'vim-airline/vim-airline-themes'
             endif
-            Plug 'powerline/fonts'
             Plug 'bling/vim-bufferline'
             Plug 'easymotion/vim-easymotion'
             Plug 'jistr/vim-nerdtree-tabs'
