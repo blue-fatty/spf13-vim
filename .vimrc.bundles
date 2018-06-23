@@ -77,7 +77,6 @@
 " Plugins {
 
     " Deps {
-        Plug 'gmarik/vundle'
         Plug 'MarcWeber/vim-addon-mw-utils'
         Plug 'tomtom/tlib_vim'
         if executable('ag')
@@ -312,4 +311,8 @@
     if filereadable(expand("~/.vimrc.bundles.local"))
         source ~/.vimrc.bundles.local
     endif
+" }
+
+" Update &runtimepath and initialize plugin system  {
+    call plug#end()
 " }
