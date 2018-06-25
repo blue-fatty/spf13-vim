@@ -19,3 +19,6 @@ set cc=80
 
 " jedi-vim
 let g:jedi#completions_enabled = 0
+
+" ctrlp
+let g:ctrlp_working_path_mode = 'c'
