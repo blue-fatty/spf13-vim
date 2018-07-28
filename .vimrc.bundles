@@ -208,6 +208,7 @@
             Plug 'yssource/python.vim'
             Plug 'vim-scripts/python_match.vim'
             Plug 'vim-scripts/pythoncomplete'
+            Plug 'Vimjas/vim-python-pep8-indent'
         endif
     " }
 
